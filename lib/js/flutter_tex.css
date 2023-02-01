@@ -6,11 +6,12 @@
 #TeXView {
     overflow: hidden;
     position: relative;
+    background-color: transparent;
 }
 
 .tex-view-ink-well .ripple {
     border-radius: 50%;
-    background-color: lightgrey;
+    background-color: transparent;
     position: absolute;
     transform: scale(0);
     animation: ripple 0.5s linear;
