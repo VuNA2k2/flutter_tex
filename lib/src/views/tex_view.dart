@@ -2,7 +2,7 @@ import 'package:flutter/widgets.dart';
 import 'package:flutter_tex/flutter_tex.dart';
 import 'package:flutter_tex/src/views/tex_view_mobile.dart'
     if (dart.library.html) 'package:flutter_tex/src/views/tex_view_web.dart';
-
+//v1
 ///A Flutter Widget to render Mathematics / Maths, Physics and Chemistry, Statistics / Stats Equations based on LaTeX with full HTML and JavaScript support.
 class TeXView extends StatefulWidget {
   /// A list of TeXViewChild.
